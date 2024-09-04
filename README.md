@@ -16,21 +16,21 @@ I ❤️ Coding.
 
 ## ⚡ GitHub Status
 
-<div style="display: flex; justify-content: center; align-content: center; width: 100%;">
+<p align="center">
     <img src="https://streak-stats.demolab.com?user=koutyuke&theme=ocean-gradient&hide_border=true&date_format=%5BY%20%5DM%20j&card_width=640&card_height=195" alt="GitHub Streak" />
-</div>
+</p>
 
-<div style="display: flex; justify-content: center; align-content: center; width: 100%; padding-top: 1rem;">
+<p align="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=koutyuke&card_width=640&show_icons=true&hide_border=true"/>
-</div>
+</p>
 
-<div style="display: flex; justify-content: center; align-content: center; width: 100%; padding-top: 1rem;">
+<p align="center">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=koutyuke&hide=jupyter%20notebook&card_width=640"/>
-</div>
+</p>
 
-<div style="display: flex; justify-content: center; align-content: center; width: 100%; padding-top: 1rem;">
+<p align="center">
   <img  src="https://github-profile-trophy.vercel.app/?username=koutyuke&theme=algolia&no-frame=&column=5&margin-w=16&margin-h=16" width="640"/>
-</div>
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=koutyuke&theme=ocean-gradient&hide_border=true&date_format=%5BY%20%5DM%20j&card_width=640&card_height=195" alt="GitHub Streak" />
