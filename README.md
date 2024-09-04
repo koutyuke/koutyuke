@@ -17,7 +17,7 @@ I ❤️ Coding.
 ## ⚡ GitHub Status
 
 <p align="center">
-    <img src="https://streak-stats.demolab.com?user=koutyuke&theme=ocean-gradient&hide_border=true&date_format=%5BY%20%5DM%20j&card_width=640&card_height=195" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=koutyuke&theme=ocean-gradient&hide_border=true&date_format=%5BY%20%5DM%20j&card_width=640&card_height=195" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -30,10 +30,6 @@ I ❤️ Coding.
 
 <p align="center">
   <img  src="https://github-profile-trophy.vercel.app/?username=koutyuke&theme=algolia&no-frame=&column=5&margin-w=16&margin-h=16" width="640"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=koutyuke&theme=ocean-gradient&hide_border=true&date_format=%5BY%20%5DM%20j&card_width=640&card_height=195" alt="GitHub Streak" />
 </p>
 
 ## My Status...
