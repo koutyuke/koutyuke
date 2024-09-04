@@ -1,16 +1,52 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hi👋, I'm koutyuke&animation=fadeIn&type=waving&color=gradient&height=128&fontSize=64&customColorList=2"/>
+</p>
 
-<!--
-**koutyuke/koutyuke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📖 About Me
 
-Here are some ideas to get you started:
+> Es gibt für die Wissenschaft keinen Königsweg, und nur der hat Aussicht, ihre lichten Höhen zu erreichen, der die Mühe nicht scheut, ihre steilen Pfade zu erklimmen.
+>
+> 学問をするのに，簡単な道など無い。だから、ただ学問の険しい山を登る苦労をいとわない者だけが、輝かしい絶頂を極める希望をもつのだ。
+>
+> by Karl Marx
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am Full Stack(Web FE, Mobile FE, BE) Engineer.
+
+Live in Naka City, Ibaraki Prefecture, Japan and Join NITIC.
+
+I ❤️ Coding.
+
+## ⚡ GitHub Status
+
+<div style="display: flex; justify-content: center; align-content: center; width: 100%;">
+    <img src="https://streak-stats.demolab.com?user=koutyuke&theme=ocean-gradient&hide_border=true&date_format=%5BY%20%5DM%20j&card_width=640&card_height=195" alt="GitHub Streak" />
+</div>
+
+<div style="display: flex; justify-content: center; align-content: center; width: 100%; padding-top: 1rem;">
+  <img  src="https://github-readme-stats.vercel.app/api?username=koutyuke&card_width=640&show_icons=true&hide_border=true"/>
+</div>
+
+<div style="display: flex; justify-content: center; align-content: center; width: 100%; padding-top: 1rem;">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=koutyuke&hide=jupyter%20notebook&card_width=640"/>
+</div>
+
+<div style="display: flex; justify-content: center; align-content: center; width: 100%; padding-top: 1rem;">
+  <img  src="https://github-profile-trophy.vercel.app/?username=koutyuke&theme=algolia&no-frame=&column=5&margin-w=16&margin-h=16" width="640"/>
+</div>
+
+## My Status...
+
+```
+  　 γ´￣￣￣￣￣￣￣￣￣￣￣￣｀ヽ
+  　 |　   I'm so hungry...   |
+  　 ゝ＿＿＿＿＿＿＿＿＿＿＿＿＿,乂
+                   Ｏ
+                  o
+   　　　　∧__∧ 　ﾟ
+  　　　 （｀･ω･）
+  　　　.ノ^　yヽ、
+  　　　ヽ,,ﾉ==l ﾉ
+  　　　　/ 　l |
+  /"""~""""""~"""~""""\
+  |       みかん       |
+```
