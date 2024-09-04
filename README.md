@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hi👋, I'm koutyuke&animation=fadeIn&type=waving&color=gradient&height=128&fontSize=64&customColorList=2"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?text=Hi👋 I'm koutyuke&animation=fadeIn&type=waving&color=gradient&height=128&fontSize=64&customColorList=2"/>
 
 ## 📖 About Me
 
