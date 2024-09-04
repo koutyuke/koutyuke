@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?text=Hi👋 I'm koutyuke&animation=fadeIn&type=waving&color=gradient&height=128&fontSize=64&customColorList=2"/>
+<img src="https://capsule-render.vercel.app/api?text=Hi👋%20I'm%20koutyuke&animation=fadeIn&type=waving&color=gradient&height=128&fontSize=64&customColorList=2"/>
 
 ## 📖 About Me
 
@@ -31,6 +31,9 @@ I ❤️ Coding.
 <div style="display: flex; justify-content: center; align-content: center; width: 100%; padding-top: 1rem;">
   <img  src="https://github-profile-trophy.vercel.app/?username=koutyuke&theme=algolia&no-frame=&column=5&margin-w=16&margin-h=16" width="640"/>
 </div>
+
+| ![](https://github-readme-stats.vercel.app/api?username=koutyuke&card_width=640&show_icons=true&hide_border=true) |
+| :---------------------------------------------------------------------------------------------------------------: |
 
 ## My Status...
 
