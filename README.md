@@ -1,14 +1,19 @@
 ### 👋 Hi there, I'm koutyuke.
 
-Maybe Web Frontend Developer..., but I'm not sure 🤔<sup>💬</sup>.
+- Maybe Web Frontend Developer..., but I'm not sure 🤔<sup>💬</sup>.
 
-I love Sleeping 😴.
+- I love Sleeping 😪<sup>💤</sup>.
 
-My development environment: [[💻 dotfiles]](https://github.com/koutyuke/dotfiles)
+- My development environment: [[💻 dotfiles]](https://github.com/koutyuke/dotfiles)
 
-Portfolio: [🌐 Coming Soon]
+- Portfolio: [🌐 Coming Soon]
 
 ### 🌱 My Motto
+
+<table>
+<tbody>
+<tr>
+<td width="100%">
 
 _Es gibt für die Wissenschaft keinen Königsweg, und nur der hat Aussicht, ihre lichten Höhen zu erreichen, der die Mühe nicht scheut, ihre steilen Pfade zu erklimmen._
 
@@ -16,6 +21,21 @@ _学問をするのに，簡単な道など無い。だから、ただ学問の�
 
 _by Karl Marx_
 
+</td>
+</tr>
+</tbody>
+</table>
+
 ### 💭 My Dream
 
-<img src="./icons/typescript.svg" alt="typescript" width="1rem" height="1rem" stroke="#aaaaaa"/> `for (const day of life) 🧑‍💻 koutyuke += 🖥️ code + 🎨 design + 🎮 playfulness;`
+```ts
+for (const day of life) {
+  🧑‍💻 += 🖥️ + 🎨 + 🎮 + 💰;
+
+  if (🥱) {
+    😴();
+  }
+}
+```
+
+<img src="./icons/typescript.svg" alt="typescript" style="width: 1rem; height: 1rem;" />
