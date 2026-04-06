@@ -8,6 +8,24 @@
 
 - Portfolio: [🌐 Coming Soon]
 
+### 📚 Languages
+
+```text
+Japanese          [⭐⭐⭐⭐⭐⭐⭐⭐⭐・]
+English           [⭐⭐⭐・・・・・・・]
+Korean            [⭐・・・・・・・・・]
+------------------------------------
+TypeScript        [⭐⭐⭐⭐⭐・・・・・]
+JavaScript        [⭐⭐⭐・・・・・・・]
+HTML              [⭐⭐⭐・・・・・・・]
+CSS               [⭐⭐⭐・・・・・・・]
+Python            [⭐⭐⭐・・・・・・・]
+SQL               [⭐⭐・・・・・・・・]
+C                 [⭐⭐・・・・・・・・]
+Nix               [⭐・・・・・・・・・]
+Rust              [⭐・・・・・・・・・]
+```
+
 ### 🌱 My Motto
 
 <table>
@@ -37,5 +55,3 @@ for (const day of life) {
   }
 }
 ```
-
-<!-- <img src="./icons/typescript.svg" alt="typescript" style="width: 1rem; height: 1rem;" /> -->
