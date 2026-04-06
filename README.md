@@ -8,7 +8,7 @@
 
 - Portfolio: [🌐 Coming Soon]
 
-### 🌱 My Motto
+#### 🌱 My Motto
 
 <table>
 <tbody>
@@ -26,7 +26,7 @@ _by Karl Marx_
 </tbody>
 </table>
 
-### 💭 My Dream
+#### 💭 My Dream
 
 ```ts
 for (const day of life) {
@@ -38,4 +38,4 @@ for (const day of life) {
 }
 ```
 
-<img src="./icons/typescript.svg" alt="typescript" style="width: 1rem; height: 1rem;" />
+<!-- <img src="./icons/typescript.svg" alt="typescript" style="width: 1rem; height: 1rem;" /> -->
