@@ -1,5 +1,5 @@
-<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg"
-  style="background-color: #ffffff;">
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100" height="100" rx="20" ry="20" fill="#ffffff" />
   <path
     d="M27.7567 47.3057C26.3327 57.383 28.1817 67.624 45.8549 67.9225C45.9885 67.9248 46.1507 67.9318 46.1941 68.0581C46.2885 68.3328 46.3854 69.1295 46.2871 71.3898"
     stroke="#1C2024" style="stroke:#1C2024;stroke:color(display-p3 0.1098 0.1255 0.1412);stroke-opacity:1;"
