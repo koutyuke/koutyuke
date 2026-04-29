@@ -6,7 +6,7 @@
 
 - My development environment: [[💻 dotfiles]](https://github.com/koutyuke/dotfiles)
 
-- Portfolio: [🌐 Coming Soon]
+- Portfolio: [[🌐 koutyuke.dev]](https://koutyuke.dev) | [[📝 Source Code]](https://github.com/koutyuke/koutyuke.dev)
 
 ### 📚 Languages
 
