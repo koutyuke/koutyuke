@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm koutyuke.
+### <img src="https://raw.githubusercontent.com/koutyuke/koutyuke/main/icons/icon.svg" width="16" align="center" alt="My Icon" /> 👋 Hi there, I'm koutyuke.
 
 - Maybe Web Frontend Developer..., but I'm not sure 🤔<sup>💬</sup>.
 
