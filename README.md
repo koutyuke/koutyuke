@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm <img src="https://raw.githubusercontent.com/koutyuke/koutyuke/main/icons/icon.svg" width="24" align="center" alt="My Icon" /> koutyuke.
+### 👋 Hi there, I'm <img src="https://raw.githubusercontent.com/koutyuke/koutyuke/main/icons/icon.svg" width="24" align="top" alt="My Icon" /> koutyuke.
 
 - Maybe Web Frontend Developer..., but I'm not sure 🤔<sup>💬</sup>.
 - I love Sleeping 😪<sup>💤</sup>.
